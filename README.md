@@ -2,11 +2,11 @@
 Hey, guys! I'm Vinson, a middle school student from China. This is my first time using Github, so it's necessary to make a self-introduction. 
 
 My hobbies
- - Playing Drums:🥁:
+ - Playing Drums🥁
 
- - Using Computers:💻:
+ - Using Computers💻
 
- - Reseach Cars:🚗:
+ - Reseach Cars🚗
 
  - etc...
 
