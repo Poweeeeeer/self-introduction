@@ -1,13 +1,17 @@
 # Self-introduction
-Hey, guys! I'm Vinson, a middle school student from China. This is my first time using Github, so it's necessary to make a self-introduction. 
+Hey, guys! I'm Vinson, a senior secondary student from China. Now it's time to complete my profiles. 
 
-My hobbies
- - Playing Drums🥁
+Hobbies
+ - Drums🥁
 
- - Using Computers💻
+ - Computers💻
 
  - Reseach Cars🚗
 
+ - Rock&Roll
+
+ - R&B
+
  - etc...
 
-In addition, it is not easy for me to code a program, because it was my first time learning C++ and vscode, so could you please be patient? Thanks for your understanding!
+In addition, I will make my way learning coding. If any of you have questions, please point it out. I couldn't appreciate more! 
